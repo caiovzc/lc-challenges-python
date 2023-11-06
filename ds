@@ -1,0 +1,20 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 5f032f1..774cf92 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -6,3 +6,4 @@[m [mO primeiro desafio é aplicação do **Método Twist** para codificação e deco[m
+ [m
+ `nb_challenge1_python.ipynb`: notebook com enunciado e solução passo a passo.<br>[m
+ `script_solution1.py`: script com a solução do problema. [m
+[32m+[m[32m## Gravando mudanças no repositório[m
+\ No newline at end of file[m
+[1mdiff --git a/desktop.ini b/desktop.ini[m
+[1mnew file mode 100644[m
+[1mindex 0000000..d957fd1[m
+[1m--- /dev/null[m
+[1m+++ b/desktop.ini[m
+[36m@@ -0,0 +1,4 @@[m
+[32m+[m[32m[ViewState][m
+[32m+[m[32mMode=[m
+[32m+[m[32mVid=[m
+[32m+[m[32mFolderType=Generic[m
